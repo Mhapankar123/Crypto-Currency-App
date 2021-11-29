@@ -14,5 +14,5 @@ It allow us to search crypto-currency by name giving us the Image, Name, Symbol,
 - ReactJS
 - Axios
 
-#API
+# API
 - https://www.coingecko.com/en/api/documentation
